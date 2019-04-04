@@ -1,3 +1,5 @@
+<?php
+
 namespace App\Acme\TestBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
@@ -5,4 +7,3 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 class HariBundle extends Bundle
 {
 }
-
