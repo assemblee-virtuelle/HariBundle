@@ -1,0 +1,14 @@
+{
+    "name": "ferdydurke/hari-bundle",
+    "description": "Bundle for integration of ActivityPub protocol in Symfony apps",
+    "type": "bundle",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Michel Cadennes",
+            "email": "michel.cadennes@assemblee-virtuelle.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
