@@ -1,0 +1,15 @@
+user_profile:
+    # Matches /blog exactly
+    path:     /users/{userName}
+    controller: App\Controller\UserController::userProfile
+    methods: GET
+    requirements:
+      userName: '[\d\-]+'
+
+user_profile_with_wildcard:
+    # Matches /blog exactly
+    path:     /{userName}
+    controller: App\Controller\UserController::userProfile
+    methods: GET
+    requirements:
+      userName: '@[\d\-]+'
