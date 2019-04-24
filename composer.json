@@ -1,7 +1,7 @@
 {
-    "name": "ferdydurke/hari-bundle",
+    "name": "assembleevirtuelle/hari-bundle",
     "description": "Bundle for integration of ActivityPub protocol in Symfony apps",
-    "type": "bundle",
+    "type": "symfony-bundle",
     "license": "GPL3",
     "authors": [
         {
